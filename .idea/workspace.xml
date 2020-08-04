@@ -6,7 +6,9 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="20e0c169-d68e-4a22-a76e-031a30e54f08" name="Default Changelist" comment="" />
+    <list default="true" id="20e0c169-d68e-4a22-a76e-031a30e54f08" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -229,12 +231,24 @@
       <updated>1596465030935</updated>
       <workItem from="1596465036680" duration="1868000" />
       <workItem from="1596549191457" duration="1477000" />
-      <workItem from="1596551059941" duration="385000" />
+      <workItem from="1596551059941" duration="2448000" />
     </task>
+    <task id="LOCAL-00001" summary="创建登录demo">
+      <created>1596551615318</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1596551615318</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="创建登录demo" />
+    <option name="LAST_COMMIT_MESSAGE" value="创建登录demo" />
   </component>
   <component name="WindowStateProjectService">
     <state x="360" y="71" key="#Tomcat_Server" timestamp="1596466499243">
@@ -245,14 +259,14 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="223" y="68" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1596466563034" />
-    <state x="372" y="6" key="CommitChangelistDialog2" timestamp="1596551555339">
+    <state x="372" y="6" key="CommitChangelistDialog2" timestamp="1596551613770">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="372" y="6" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1596551555339" />
-    <state x="549" y="168" key="FileChooserDialogImpl" timestamp="1596551427733">
+    <state x="372" y="6" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1596551613770" />
+    <state x="549" y="168" key="FileChooserDialogImpl" timestamp="1596553479420">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="549" y="168" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1596551427733" />
+    <state x="549" y="168" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1596553479420" />
     <state width="1324" height="328" key="GridCell.Tab.0.bottom" timestamp="1596551171474">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -305,6 +319,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="249" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1596465109806" />
+    <state x="361" y="146" key="Vcs.Push.Dialog.v2" timestamp="1596553457333">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="146" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1596553457333" />
     <state x="431" y="145" key="search.everywhere.popup" timestamp="1596465131374">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
